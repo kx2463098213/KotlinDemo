@@ -1,0 +1,2 @@
+# KotlinDemo
+一个基于MVP模式的kotlin语言开发Demo，主要功能为注册登录，使用到了Retrofit框架
