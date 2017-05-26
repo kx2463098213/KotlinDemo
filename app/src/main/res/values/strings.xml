@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">考特林</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="user_name">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="confirm_pwd">确认密码</string>
+    <string name="email">邮箱地址</string>
+    <string name="nothing">九月\n海子\n目击众神死亡的草原野花一片\n远在远方的风比远方更远\n我的琴声呜咽泪水全无\n我把这远方的远归还草原
+    \n一个叫木头一个叫马尾\n我的琴声呜咽泪水全无\n远方只有在死亡之中凝聚野花一片\n明月入境高悬草原映照千年\n我的琴声呜咽泪水全无\n只身打马过草原</string>
+    <string name="main_title">荒原</string>
+</resources>
